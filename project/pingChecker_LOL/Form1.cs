@@ -372,5 +372,10 @@ namespace pingChecker_LOL
 
 
         }
+
+        private void Version_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

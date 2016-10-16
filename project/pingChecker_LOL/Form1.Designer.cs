@@ -347,9 +347,10 @@
             this.Version.AutoSize = true;
             this.Version.Location = new System.Drawing.Point(640, 406);
             this.Version.Name = "Version";
-            this.Version.Size = new System.Drawing.Size(82, 13);
+            this.Version.Size = new System.Drawing.Size(88, 13);
             this.Version.TabIndex = 10;
-            this.Version.Text = "v1.0.1.0 (Alpha)";
+            this.Version.Text = "v1.0.0.11 (Alpha)";
+            this.Version.Click += new System.EventHandler(this.Version_Click);
             // 
             // logOceanic
             // 
