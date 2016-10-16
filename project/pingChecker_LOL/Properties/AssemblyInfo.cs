@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("LoL Ping Checker")]
 [assembly: AssemblyDescription("Ping checking tool for League of Legends.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("AIT-Archive")]
+[assembly: AssemblyCompany("Arian.TECH")]
 [assembly: AssemblyProduct("pingChecker_LOL")]
 [assembly: AssemblyCopyright("Copyright Arian Jahiri ©  2016")]
 [assembly: AssemblyTrademark("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.13")]
+[assembly: AssemblyFileVersion("1.0.0.13")]
